@@ -6,5 +6,5 @@ en fly.io
 
 ## Funcionamiento
 Para el funcionamiento de esta aplicación de manera local, se debe desplegar ejecutar los comandos SQL que se encuentran en el archivo
-SQL.
+database.sql, 
 Además de crear un archivo .env
